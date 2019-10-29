@@ -60,7 +60,8 @@ a:hover {
     font-size: 100px;
     color: #000000;
     float: left;
-    line-height: 80px;
+    line-height: 70px;
+    margin: 0 15px 0 0;
 }
 .text_board h1, h2 {
     padding: 30px 0;
